@@ -11,7 +11,7 @@ El [joc de la vida](https://ca.wikipedia.org/wiki/Joc_de_la_vida) és un autòma
  3. Tota cel·la viva amb dos o tres veïns vius, segueix viva per a la següent generació.
  4. Tota cel·la morta amb exactament tres veïns vius torna a la vida.
 
-## Com jugar:
+## Controls:
 
  - El [click] del ratolí permuta entre cel·la viva o morta
  - La tecla [R] NETEJA i PAUSA el taulell
